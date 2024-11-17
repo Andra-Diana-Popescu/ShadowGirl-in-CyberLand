@@ -1,5 +1,9 @@
 # 👋 Hello and welcome to CyberLand! 🤩
 
+<!-- Welcome to CyberLand -->
+
+<img width="60%" src="https://github.com/Andra-Diana-Popescu/ShadowGirl-in-CyberLand/blob/main/ShadowGirl-in-CyberLand-Pictures/cyberland.gif"/>
+
 If you’re a beginner looking to dive into the world of technology, you’ve come to the right place!
 
 CyberLand is more than just a channel, it’s a community. Share your experiences, ask questions, and learn from fellow travelers. This channel is dedicated to people who are curious and want to learn more about IT topics. No prior knowledge is required. 😊
@@ -9,10 +13,14 @@ Through our adventures, you’ll gain the skills to navigate the digital world, 
 So, are you ready to start your IT journey?
 
 Hit that follow button, keep your eyes on notifications, and let’s dive into the world of IT and cybersecurity together.
+<br/>
+<br/>
 
-Thanks and Regards,
+<i><strong>Thanks and Regards,
 
-ShadowGirl 🦸‍♀️😉
+ShadowGirl</strong></i> 🦸‍♀️😉
+<br/>
+<br/>
 
 ✅ Don’t Miss My Upcoming Videos:
 
