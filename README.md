@@ -2,7 +2,12 @@
 
 <!-- Welcome to CyberLand -->
 
-<img width="60%" src="https://github.com/Andra-Diana-Popescu/ShadowGirl-in-CyberLand/blob/main/ShadowGirl-in-CyberLand-Pictures/cyberland.gif"/>
+<a href="https://www.youtube.com/@shadowgirlincyberland/" target="blank">
+  <img width="60%" src="https://github.com/Andra-Diana-Popescu/ShadowGirl-in-CyberLand/blob/main/ShadowGirl-in-CyberLand-Pictures/cyberland.gif"/>
+</a>
+
+<br/>
+<br/>
 
 If you’re a beginner looking to dive into the world of technology, you’ve come to the right place!
 
@@ -19,6 +24,13 @@ Hit that follow button, keep your eyes on notifications, and let’s dive into t
 <i><strong>Thanks and Regards,
 
 ShadowGirl</strong></i> 🦸‍♀️😉
+<br/>
+<br/>
+
+<a href="https://www.youtube.com/@shadowgirlincyberland/" target="blank">
+  <img width="60%" src="https://github.com/Andra-Diana-Popescu/ShadowGirl-in-CyberLand/blob/main/ShadowGirl-in-CyberLand-Pictures/ShadowGirl%20in%20CyberLand.png"/>
+</a>
+
 <br/>
 <br/>
 
