@@ -41,7 +41,7 @@ ShadowGirl</strong></i> 🦸‍♀️😉
     <strong>
     <a href="https://www.youtube.com/@shadowgirlincyberland/" target="blank">ShadowGirl in CyberLand</a>
     </strong>
-    <a href="https://www.youtube.com/@shadowgirlincyberland/" target="blank">
+    <a href="https://shadowgirlincyberland.netlify.app/" target="blank">
      <img align="center" src="https://github.com/Andra-Diana-Popescu/Andra-Diana-Popescu/blob/main/Images/youtube.png" alt=""height="30"/></a>
    </li>
   </ul>
